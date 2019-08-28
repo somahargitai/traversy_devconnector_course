@@ -1,5 +1,7 @@
 # Brad Traversy's Mongo + Express tutorial
 
+_This demo app follows Brad Traversy's training series called [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA), see its demo video [here](https://youtu.be/B1wDyQBBafQ)_.
+
 ## How to run
 
 Create a `config/keys.js` file like:
