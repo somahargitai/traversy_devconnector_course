@@ -11,4 +11,4 @@ module.exports = {
 };
 ```
 
-Go to mongoDB Atlas cloud, clusters, click connect API and copy connection string to `mongoURI`. Then write your password into it.
+Go to your MongoDB Atlas Cluster [you've created](https://youtu.be/KKyag6t98g8), click connect API and copy connection string to `mongoURI` field in `key.js`. Then write your password into it.
